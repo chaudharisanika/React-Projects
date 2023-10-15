@@ -1,2 +1,2 @@
 # React-Projects
-1.[Die Roll](https://chaudharisanika.github.io/React-Projects/Die_Roll)
+1.[DieRoll](https://chaudharisanika.github.io/React-Projects/Die_Roll)
