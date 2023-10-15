@@ -1,0 +1,9 @@
+.Button{
+    background-color:cadetblue;
+    padding: 10px 30px;
+    border:1px solid black;
+    border-radius: 10px;
+}
+.Button:hover{
+    opacity:0.5;
+}
